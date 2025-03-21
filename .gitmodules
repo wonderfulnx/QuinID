@@ -1,0 +1,3 @@
+[submodule "UHF-Gen2-RFID-Reader"]
+	path = UHF-Gen2-RFID-Reader
+	url = https://github.com/wonderfulnx/UHF-Gen2-RFID-Reader
