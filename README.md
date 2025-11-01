@@ -1,6 +1,6 @@
 # QuinID
 
-Author: NaXin
+Author: [NaXin](https://wonderfulnx.github.io/)
 
 Contact: nx20@mails.tsinghua.edu.cn, heyuan@tsinghua.edu.cn, (or simply contact this Github account😀.)
 
