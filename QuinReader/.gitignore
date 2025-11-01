@@ -1,0 +1,25 @@
+# Simulink simulation project generated folder
+**/slprj/
+# HDL Coder project or vavido project folder
+**/hdl_prj/
+# generated hdl source code folder
+**/hdlsrc/
+# Co-simulation folder
+**/xsim.dir.*
+**/xsim.dir
+# generated bitstream
+*.bit
+
+# Simulink `MATLAB Function Block`, `Stateflow charts`, `S-functions`, etc. generated executable
+*.mexw64
+# Simulink slx cache file
+*.slxc
+# Co-simulation waveform database file
+*.wdb
+# ARM generated files and folders
+**/*_ert_rtw/
+*.elf
+**/srcfile
+# backup of Simulink model
+*.original
+*.autosaves
